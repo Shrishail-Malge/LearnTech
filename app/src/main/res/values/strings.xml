@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LearnTech</string>
+    <string name="first">Android Development</string>
+    <string name="second">Web Development</string>
+    <string name="third">Data Science</string>
+    <string name="fourth">Blockchain Development</string>
+    <string name="adContent"><b><i>---------------------------------------</i></b>\n\n<b><i>What Is Android?</i></b>\n\nAndroid is an operating system and programming platform developed by Google for mobile phones and other mobile devices, such as tablets. It can run on many different devices from many different manufacturers. Android includes a software development kit (SDK) that helps you write original code and assemble software modules to create apps for Android users. Android also provides a marketplace to distribute apps. All together, Android represents an ecosystem for mobile apps.\n
+        \n<b><i>Why develop apps for Android?</i></b>\n\nDevelopers create apps for a variety of reasons. They may need to address business requirements or build new services or businesses, or they may want to offer games and other types of content for users. Developers choose to develop for Android in order to reach the majority of mobile device users.\n</string>
+
+    <string name="webContent"><b><i>---------------------------------------</i></b>\n\n<b><i>Web Development</i></b>\n\nWeb development refers to the creating, building, and maintaining of websites. It includes aspects such as web design, web publishing, web programming, and database management. It is the creation of an application that works over the internet i.e. websites.\n\nWeb Development can be classified into two ways:\n
+        \n<b><i>Frontend Development</i></b>: The part of a website where the user interacts directly is termed as front end. It is also referred to as the ‘client side’ of the application.\n
+        \n<b><i>Backend Development</i></b>: Backend is the server side of a website. It is part of the website that users cannot see and interact with. It is the portion of software that does not come in direct contact with the users. It is used to store and arrange data.\n</string>
+
+    <string name="dsContent"><b><i>---------------------------------------</i></b>\n\n<b><i>What Is Data Science?</i></b>\n\nData Science is kinda blended with various tools, algorithms, and machine learning principles. Most simply, it involves obtaining meaningful information or insights from structured or unstructured data through a process of analyzing, programming and business skills. It is a field containing many elements like mathematics, statistics, computer science, etc. Those who are good at these respective fields with enough knowledge of the domain in which you are willing to work can call themselves as Data Scientist. It’s not an easy thing to do but not impossible too. You need to start from data, it’s visualization, programming, formulation, development, and deployment of your model. In the future, there will be great hype for data scientist jobs. Taking in that mind, be ready to prepare yourself to fit in this world.\n
+    \nData science is a field that involves using statistical and computational techniques to extract insights and knowledge from data. It is a multi-disciplinary field that encompasses aspects of computer science, statistics, and domain-specific expertise. Data scientists use a variety of tools and methods, such as machine learning, statistical modeling, and data visualization, to analyze and make predictions from data. They work with both structured and unstructured data, and use the insights gained to inform decision making and support business operations. Data science is applied in a wide range of industries, including finance, healthcare, retail, and more. It helps organizations to make data-driven decisions and gain a competitive advantage.\n
+    </string>
+
+    <string name="bdContent"><b><i>---------------------------------------</i></b>\n\n<b><i>What Is Blockchain Development?</i></b>\n\nBlockchain development is the process of creating shared, unchangeable, distributed ledger technology (DLT) that securely records transactions and tracks assets—whether those are physical assets, like money or real estate, or nonphysical assets, like copyrights—within a network.
+
+It’s valuable for a variety of industries because of how quickly, accurately, and securely it enables the sharing of information. Whether you’re tracking orders, accounts, payments, production, or other data, a blockchain network offers transparent delivery and storage for permissioned network members.
+
+Blockchain development can result in many benefits, but before taking advantage of its potential value, you need to understand blockchain.\n</string>
+</resources>
